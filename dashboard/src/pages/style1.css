@@ -1,0 +1,22 @@
+.flex-container {
+    display: flex;
+    gap: 16px;
+  }
+  
+  .flex-item {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8px;
+  }
+  
+  .category {
+    margin-bottom: 8px;
+  }
+  
+  .divider {
+    flex: 0 0 auto; /* To prevent the divider from growing */
+    border-right: 1px solid gainsboro;
+    margin: 0 35px;
+  }
+  

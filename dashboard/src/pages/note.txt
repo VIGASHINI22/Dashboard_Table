@@ -1,0 +1,44 @@
+export default function VerticalDividerMiddle() {
+  return (
+    <div>
+      <Box
+        sx={{
+          display: 'flex',
+          alignItems: 'center',
+          width: 'fit-content',
+          border: (theme) => `1px solid ${theme.palette.divider}`,
+          borderRadius: 1,
+          bgcolor: 'background.paper',
+          color: 'text.secondary',
+          '& svg': {
+            m: 1.5,
+          },
+          '& hr': {
+            mx: 0.5,
+          },
+        }}
+      >
+        <FormatAlignLeftIcon />
+       
+        <Divider orientation="vertical" variant="middle" flexItem />
+        
+        <FormatAlignLeftIcon />
+      </Box>
+    </div>
+  );
+}
+
+
+
+/* <h1>Table</h1>
+                   {product.map((item) => {
+                     return <p>{item.Products}</p>
+                   })} */
+
+                  //  <TablePagination
+                  //     component="div"
+                  //     count={product.length}
+                  //     rowsPerPage={rowsPerPage}
+                  //     page={page}
+                  //     onPageChange={handleChangePage}
+                  //   />

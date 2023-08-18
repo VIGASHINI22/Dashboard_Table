@@ -1,0 +1,89 @@
+
+{
+  "Table_details":[
+      {
+          "Products":"Maggi",
+          "Buying_Price":"430",
+          "Quantity":"43 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"11/12/22"
+      },
+      {
+          "Products":"Bru",
+          "Buying_Price":"257",
+          "Quantity":"22 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"21/12/22"
+      },
+{
+          "Products":"Maggi",
+          "Buying_Price":"430",
+          "Quantity":"43 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"11/12/22"
+      },
+      {
+          "Products":"Bru",
+          "Buying_Price":"257",
+          "Quantity":"22 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"21/12/22"
+      },
+{
+          "Products":"Maggi",
+          "Buying_Price":"430",
+          "Quantity":"43 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"11/12/22"
+      },
+      {
+          "Products":"Bru",
+          "Buying_Price":"257",
+          "Quantity":"22 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"21/12/22"
+      },
+{
+          "Products":"Maggi",
+          "Buying_Price":"430",
+          "Quantity":"43 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"11/12/22"
+      },
+      {
+          "Products":"Bru",
+          "Buying_Price":"257",
+          "Quantity":"22 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"21/12/22"
+      },
+{
+          "Products":"Maggi",
+          "Buying_Price":"430",
+          "Quantity":"43 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"11/12/22"
+      },
+      {
+          "Products":"Bru",
+          "Buying_Price":"257",
+          "Quantity":"22 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"21/12/22"
+      },
+{
+          "Products":"Maggi",
+          "Buying_Price":"430",
+          "Quantity":"43 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"11/12/22"
+      },
+      {
+          "Products":"Bru",
+          "Buying_Price":"257",
+          "Quantity":"22 Packets",
+          "Threshold_Value":"12 Packets",
+          "Expiry_Date":"21/12/22"
+      }
+  ]
+}
